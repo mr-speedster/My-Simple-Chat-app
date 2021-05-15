@@ -32,7 +32,7 @@ function App() {
   return (
     <div className="App">
       <header>
-        <h1>MYChat</h1>
+        <h1>ADChat</h1>
         <SignOut />
       </header>
 
